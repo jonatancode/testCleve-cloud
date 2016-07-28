@@ -4,7 +4,7 @@
   "description": "Test",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodejs app.js"
   },
   "author": "jonathan.lp17@gmail.com",
   "license": "ISC",
@@ -13,6 +13,6 @@
   },
    "engines": {
     "node": "~4.0"
- },
+ }
 
 }
